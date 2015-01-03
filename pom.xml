@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.talool</groupId>
 	<artifactId>talool-base</artifactId>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>1.0.8-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Talool Base (parent)</name>
 	<scm>
@@ -187,8 +187,8 @@
 					<artifactId>maven-compiler-plugin</artifactId>
 					<version>3.0</version>
 					<configuration>
-						<source>1.6</source>
-						<target>1.6</target>
+						<source>1.7</source>
+						<target>1.7</target>
 						<maxmem>2000m</maxmem>
 					</configuration>
 				</plugin>
